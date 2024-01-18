@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bdf951c.css",
+    "main.js": "/static/js/main.44faca24.js",
+    "static/media/Sport-Club-Ulbra-RS-1-900x0.png": "/static/media/Sport-Club-Ulbra-RS-1-900x0.0c22d1540f52ae4858d4.png",
+    "static/media/sports-tools_53876-138077.avif": "/static/media/sports-tools_53876-138077.97ca9a7c0c1dbfc6ca3c.avif",
+    "static/media/stars.png": "/static/media/stars.bb422ce8997f9afd6b93.png",
+    "static/media/infinity.webp": "/static/media/infinity.8f1823e2df2dc5daeb6a.webp",
+    "static/media/fun.gif": "/static/media/fun.e9b8909f213b72cbc3ff.gif",
+    "index.html": "/index.html",
+    "main.5bdf951c.css.map": "/static/css/main.5bdf951c.css.map",
+    "main.44faca24.js.map": "/static/js/main.44faca24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bdf951c.css",
+    "static/js/main.44faca24.js"
+  ]
+}
